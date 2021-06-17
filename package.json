@@ -2,7 +2,7 @@
   "name": "@erictooth/semantic-release-npm-github-config",
   "version": "1.0.2",
   "description": "",
-  "main": ".releaserc.yaml",
+  "main": ".releaserc.json",
   "license": "MIT",
   "author": "erictooth",
   "publishConfig": {
