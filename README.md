@@ -9,7 +9,7 @@
 {
   "release": {
     "extends": "@erictooth/semantic-release-npm-github-config",
-    "branch": "main"
+    "branches": ["main"]
   }
 }
 ```
