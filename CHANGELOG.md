@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/erictooth/semantic-release-npm-github-config/compare/v1.0.2...v1.0.3) (2021-06-17)
+
+
+### Bug Fixes
+
+* fix main field in package.json ([f9defb6](https://github.com/erictooth/semantic-release-npm-github-config/commit/f9defb694340a24e3df0a27276451e0fc8d7c640))
+
 ## [1.0.2](https://github.com/erictooth/semantic-release-npm-github-config/compare/v1.0.1...v1.0.2) (2021-06-17)
 
 
