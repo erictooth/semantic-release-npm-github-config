@@ -1,0 +1,25 @@
+{
+  "name": "@erictooth/semantic-release-npm-github-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".releaserc.yaml",
+  "license": "MIT",
+  "author": "erictooth",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:erictooth/semantic-release-npm-github-config.git"
+  },
+  "dependencies": {
+    "@semantic-release/changelog": "^5",
+    "@semantic-release/commit-analyzer": "^8",
+    "@semantic-release/git": "^9",
+    "@semantic-release/github": "^7",
+    "@semantic-release/release-notes-generator": "^9"
+  },
+  "peerDependencies": {
+    "semantic-release": "^17"
+  }
+}
